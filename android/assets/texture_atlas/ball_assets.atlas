@@ -1,0 +1,181 @@
+
+ball_assets.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+smile_face0001
+  rotate: false
+  xy: 2, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0002
+  rotate: false
+  xy: 2, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0003
+  rotate: false
+  xy: 90, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0004
+  rotate: false
+  xy: 2, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0005
+  rotate: false
+  xy: 90, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0006
+  rotate: false
+  xy: 178, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0007
+  rotate: false
+  xy: 2, 2
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0008
+  rotate: false
+  xy: 90, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0009
+  rotate: false
+  xy: 178, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0010
+  rotate: false
+  xy: 266, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0011
+  rotate: false
+  xy: 90, 2
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0012
+  rotate: false
+  xy: 178, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0013
+  rotate: false
+  xy: 266, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0014
+  rotate: false
+  xy: 354, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0015
+  rotate: false
+  xy: 178, 2
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0016
+  rotate: false
+  xy: 266, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0017
+  rotate: false
+  xy: 354, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0018
+  rotate: false
+  xy: 442, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0019
+  rotate: false
+  xy: 266, 2
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0020
+  rotate: false
+  xy: 354, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0021
+  rotate: false
+  xy: 442, 478
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0022
+  rotate: false
+  xy: 530, 716
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0023
+  rotate: false
+  xy: 354, 2
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0024
+  rotate: false
+  xy: 442, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+smile_face0025
+  rotate: false
+  xy: 442, 240
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
